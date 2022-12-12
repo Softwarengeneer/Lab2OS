@@ -1,0 +1,1 @@
+cmd_/home/nikita/CLionProjects/Lab2OS/Module.symvers := sed 's/ko$$/o/' /home/nikita/CLionProjects/Lab2OS/modules.order | scripts/mod/modpost -m -a   -o /home/nikita/CLionProjects/Lab2OS/Module.symvers -e -i Module.symvers   -T -

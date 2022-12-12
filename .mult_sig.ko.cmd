@@ -1,0 +1,1 @@
+cmd_/home/nikita/CLionProjects/Lab2OS/mult_sig.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/nikita/CLionProjects/Lab2OS/mult_sig.ko /home/nikita/CLionProjects/Lab2OS/mult_sig.o /home/nikita/CLionProjects/Lab2OS/mult_sig.mod.o;  true
